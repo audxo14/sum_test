@@ -2,8 +2,6 @@
 #include <stdio.h>
 #include "sum.h"
 
-using namepsace std;
-
 int main()
 {
 	int n;
